@@ -30,6 +30,8 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScr
 - 📫 Please email via [rayhan.rahat.dev@outlook.com](mailto:rayhan.rahat.dev@outlook.com) to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/12CzJAJ4B-oKlaixbRMnJP1B2VD5HTdo2/view?usp=sharing) to get more info.
 
+![Profile views](https://gpvc.arturio.dev/Rahat47)  <img src="https://img.shields.io/github/followers/Rahat47?label=Follow" style=" float:left, margin-right:10px" />
+
 
 **Languages and Tools:**  
 
@@ -48,5 +50,3 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScr
 <code> and more. </code>
 
 ![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=Rahat47&show_icons=true&hide_border=true)
-
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
