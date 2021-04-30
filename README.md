@@ -45,8 +45,8 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScr
 <code><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></code>
 <code><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></code>
 <code><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"></code>
-<code> and more. </>
+<code> and more. </code>
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=Rahat47&show_icons=true&hide_border=true)
 
 ⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
