@@ -27,7 +27,7 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScr
 - 🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects, I am also interested in Serverless and JAM Stack Developing;
 - 💼 I’m pursuing a Bachelor's degree in Accounting;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rayhan.rahat.dev to reach me.
+- 📫 Please email via [rayhan.rahat.dev@outlook.com](mailto:rayhan.rahat.dev@outlook.com) to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/12CzJAJ4B-oKlaixbRMnJP1B2VD5HTdo2/view?usp=sharing) to get more info.
 
 
