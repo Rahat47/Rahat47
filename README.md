@@ -1,4 +1,4 @@
-### Hey 👋, I'm Rahat
+<img src="https://github.com/Rahat47/Rahat47/blob/main/svg.svg"/>
 
 <a href="https://www.linkedin.com/in/rh-rahat/">
   <img align="left" alt="Rahat's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
