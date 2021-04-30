@@ -16,19 +16,19 @@
 <br />
 <br />
 
-Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScript & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh.  Currently Learning Next.js <img width="40px" fill="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/next-dot-js.svg">
+Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScript & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh.  Currently Learning Next.js <img width="30px" fill="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/next-dot-js.svg">. Also Actively looking for internship opportunity as a Full-Stack or MERN Developer to grow and develop my skills further.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 👨🏽‍💻 I’m currently working as a Freelance Web Developer at [Fiverr](https://www.fiverr.com/rh_rahat_47) working on MERN, REST API, Front-End projects;
+- 🌱 I’m currently learning Next.js & Netlify Cloud Functions; 
+- 🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects, I am also interested in Serverless and JAM Stack Developing;
+- 💼 I’m pursuing a Bachelor's degree in Accounting;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📫 Please email via rayhan.rahat.dev to reach me.
+- 📝 See my [Resume](https://drive.google.com/file/d/12CzJAJ4B-oKlaixbRMnJP1B2VD5HTdo2/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
