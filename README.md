@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScript & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh.  Currently Learning Next.js <img align="left" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/next-dot-js.svg">
+Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScript & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh.  Currently Learning Next.js <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/next-dot-js.svg">
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
