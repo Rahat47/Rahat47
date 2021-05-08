@@ -31,7 +31,7 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScr
 - 💼 I’m pursuing a Bachelor's degree in Accounting;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via [rayhan.rahat.dev@outlook.com](mailto:rayhan.rahat.dev@outlook.com) to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/12CzJAJ4B-oKlaixbRMnJP1B2VD5HTdo2/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/16ChiELjjlb6u76pc3oqw1DwzfNXnZ8zU/view?usp=sharing) to get more info.
 
 ![Profile views](https://gpvc.arturio.dev/Rahat47)  <img src="https://img.shields.io/github/followers/Rahat47?label=Follow" style=" float:left, margin-right:10px" />
 
