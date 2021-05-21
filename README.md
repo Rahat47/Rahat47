@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/rh-rahat/">
   <img align="left" alt="Rahat's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/RayhanH06640052">
+<a href="https://twitter.com/rh_rahat_dev">
   <img align="left" alt="Rahat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/rh.rahat0047/">
