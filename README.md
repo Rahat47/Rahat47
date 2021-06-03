@@ -56,4 +56,4 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScr
 
 ![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=Rahat47&show_icons=true&hide_border=true)
 ![Rahat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Rahat47&show_icons=true&locale=en&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahat47" alt="Rahat47 Contributor Stats" /></p>
+![Rahat's Contributor Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rahat47)
