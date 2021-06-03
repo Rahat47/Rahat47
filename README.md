@@ -1,5 +1,7 @@
 <img src="https://github.com/Rahat47/Rahat47/blob/main/svg.svg"/>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahat47&theme=onedark" alt="linkon63" /></a> </p>
+
 
 ### Find in me in the web 🌍
 
