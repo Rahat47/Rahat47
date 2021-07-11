@@ -27,8 +27,8 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScr
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as a Freelance Web Developer at [Fiverr](https://www.fiverr.com/rh_rahat_47) working on MERN, REST API, Front-End projects;
-- 🌱 I’m currently learning Next.js & Netlify Cloud Functions; 
+- 👨🏽‍💻 I’m currently working as a Junior Backend Developer at [Appollo](https://www.tryappollo.com/) working on REST API, API Security and Optimization ;
+- 🌱 I’m currently learning TypeScript with React & Node; 
 - 🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects, I am also interested in Serverless and JAM Stack Developing;
 - 💼 I’m pursuing a Bachelor's degree in Accounting;
 - 💬 Ask me about anything, I am happy to help;
