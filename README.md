@@ -1,7 +1,6 @@
 <img src="https://github.com/Rahat47/Rahat47/blob/main/svg.svg"/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahat47&theme=onedark" alt="linkon63" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahat47&theme=onedark" alt="Rahat47" /></a> </p>
 
 ### Find in me in the web 🌍
 
@@ -21,24 +20,24 @@
 <br />
 <br />
 
-Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScript & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh.  Currently Learning Next.js <img width="30px" fill="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/next-dot-js.svg">. Also Actively looking for internship opportunity as a Full-Stack or MERN Developer to grow and develop my skills further.
+Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( React & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh. Currently Learning TypeScript. Looking for internship opportunity as a Full-Stack or MERN Developer to grow and develop my skills further.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as a Junior Backend Developer at [Appollo](https://www.tryappollo.com/) working on REST API, API Security and Optimization ;
-- 🌱 I’m currently learning TypeScript with React & Node; 
-- 🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects, I am also interested in Serverless and JAM Stack Developing;
-- 💼 I’m pursuing a Bachelor's degree in Accounting;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via [rayhan.rahat.dev@outlook.com](mailto:rayhan.rahat.dev@outlook.com) to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/16ChiELjjlb6u76pc3oqw1DwzfNXnZ8zU/view?usp=sharing) to get more info.
+-   👨🏽‍💻 Former Junior Backend Developer at [Appollo](https://www.tryappollo.com/) (June 2020 - Sept 2020);
+-   💻 Web Developer at [Fiverr](https://www.fiverr.com/rh_rahat_47?up_rollout=true) (Sept 2020 - Present);
+-   🌱 I’m currently learning TypeScript with React & Node;
+-   🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects, I am also interested in Serverless and JAM Stack Developing;
+-   💼 I’m pursuing a Bachelor's degree in Accounting;
+-   💬 Ask me about anything, I am happy to help;
+-   📫 Please email via [rayhan.rahat.dev@outlook.com](mailto:rayhan.rahat.dev@outlook.com) to reach me.
+-   📝 See my [Resume](https://drive.google.com/file/d/16ChiELjjlb6u76pc3oqw1DwzfNXnZ8zU/view?usp=sharing) to get more info.
 
-![Profile views](https://gpvc.arturio.dev/Rahat47)  <img src="https://img.shields.io/github/followers/Rahat47?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Rahat47) <img src="https://img.shields.io/github/followers/Rahat47?label=Follow" style=" float:left, margin-right:10px" />
 
-
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></code>
 <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></code>
@@ -57,3 +56,4 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( JavaScr
 ![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=Rahat47&show_icons=true&hide_border=true)
 ![Rahat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Rahat47&show_icons=true&locale=en&layout=compact)
 ![Rahat's Contributor Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rahat47)
+
