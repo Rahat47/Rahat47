@@ -53,6 +53,10 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( React &
 <code><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"></code>
 <code> and more. </code>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Rahat47}/count.svg" alt="Rahat47 :: Visitor's Count" /></p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rahat47&show_icons=true&hide_border=true" alt="Rahat's github stats" />
 </p>
