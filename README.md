@@ -56,6 +56,9 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( React &
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rahat47&show_icons=true&hide_border=true" alt="Rahat's github stats" />
 </p>
-![Rahat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Rahat47&show_icons=true&locale=en&layout=compact)
-![Rahat's Contributor Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rahat47)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahat47&show_icons=true&locale=en&layout=compact" alt="Rahat's Top Languages" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahat47" alt="Rahat's Contributor Stats" />
+</p>
