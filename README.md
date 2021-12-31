@@ -53,7 +53,9 @@ Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( React &
 <code><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"></code>
 <code> and more. </code>
 
-<p align="center">![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=Rahat47&show_icons=true&hide_border=true) </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rahat47&show_icons=true&hide_border=true" alt="Rahat's github stats" />
+</p>
 ![Rahat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Rahat47&show_icons=true&locale=en&layout=compact)
 ![Rahat's Contributor Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rahat47)
 
