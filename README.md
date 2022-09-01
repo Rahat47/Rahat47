@@ -33,6 +33,14 @@
 <br />
 <br />
 
+#### Now
+
+- ✨ Contributing to [Fb Dropshipper](https://fbdropshipper.com/);
+- :fire: Interested in Backend and Cloud engineering;
+- :calendar: Looking for contributing to TypeScript based open source projects 
+
+#### Bio
+
 Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( React & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh. Currently Learning TypeScript. Looking for internship opportunity as a Full-Stack or MERN Developer to grow and develop my skills further.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
