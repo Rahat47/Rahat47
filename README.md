@@ -41,20 +41,21 @@
 
 #### Bio
 
-Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( React & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh. Currently Learning TypeScript. Looking for internship opportunity as a Full-Stack or MERN Developer to grow and develop my skills further.
+Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( TypeScript, React & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh. Currently Learning Ruby on Rails. Looking for opportunity as a Frontend or Full Stack Developer to grow, contribute as well as develop my skills further.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
--   👨🏽‍💻 Former Junior Backend Developer at [Appollo](https://app.tryappollo.com/) (June 2020 - Sept 2020);
+-   👨🏽‍💻 Lead Frontend Engineer at [FB Dropshipper](https://fbdropshipper.com/) (June 2022 - Present);
 -   💻 Web Developer at [Fiverr](https://www.fiverr.com/rh_rahat_47?up_rollout=true) (Sept 2020 - Present);
--   🌱 I’m currently learning TypeScript with React & Node;
+-   🌱 I’m currently learning Ruby on Rails, Nest.js, PostGres;
 -   🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects, I am also interested in Serverless and JAM Stack Developing;
 -   💼 I’m pursuing a Bachelor's degree in Accounting;
 -   💬 Ask me about anything, I am happy to help;
 -   📫 Please email via [rayhan.rahat.dev@outlook.com](mailto:rayhan.rahat.dev@outlook.com) to reach me.
 -   📝 See my [Resume](https://drive.google.com/file/d/16ChiELjjlb6u76pc3oqw1DwzfNXnZ8zU/view?usp=sharing) to get more info.
+-   🌍 Visit My Portfolio [portfolio](https://rayhan-rahat.vercel.app/) to get more details.
 
 ![Profile views](https://gpvc.arturio.dev/Rahat47) <img src="https://img.shields.io/github/followers/Rahat47?label=Follow" style=" float:left, margin-right:10px" />
 
