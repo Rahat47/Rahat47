@@ -1,3 +1,16 @@
+<p align="left">
+  <a href="https://leetcode.com/Rahat47/">
+    <img src="https://cp-logo.vercel.app/leetcode/Rahat47" alt="Leet code rating" />
+  </a>
+  <a href="https://github.com/Rahat47?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rahat47?color=green&logo=github">
+  </a>
+  <a href="https://github.com/Rahat47/">
+    <img src="https://komarev.com/ghpvc/?username=Rahat47" alt="visitors" />
+  </a>
+
+</p>
+
 <img src="https://github.com/Rahat47/Rahat47/blob/main/svg.svg"/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahat47&theme=onedark" alt="Rahat47" /></a> </p>
