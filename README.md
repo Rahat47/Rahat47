@@ -15,7 +15,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahat47&theme=onedark" alt="Rahat47" /></a> </p>
 
-### Find in me in the web 🌍
+### Find me on the web 🌍
 
 <a href="https://www.linkedin.com/in/rh-rahat/">
   <img align="left" alt="Rahat's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -35,25 +35,28 @@
 
 #### Now
 
-- ✨ Contributing to [Fb Dropshipper](https://fbdropshipper.com/);
-- :fire: Interested in Backend and Cloud engineering;
-- :calendar: Looking for contributing to TypeScript based open source projects 
+- ✨ Contributing to Insaeng;
+- ✨ Contributing to [Cheer Music Maker](https://www.cheer-music-maker.com/);
+- ✨ Contributing to [CloneDub](https://www.clonedub.com/);
+- ✨ Contributing to Many Backend and frontend projects.
+- :fire: Interested in AI;
+- :calendar: Looking to build amazing things for the Web.
 
 #### Bio
 
-Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** ( TypeScript, React & Node.js ) and a **Freelance Web Developer** 🚀 from Bangladesh. Currently Learning Ruby on Rails. Looking for opportunity as a Frontend or Full Stack Developer to grow, contribute as well as develop my skills further.
+Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** and a **Freelance Web Developer** 🚀 from Bangladesh. Currently Learning Python. Looking for an opportunity as a Backend or Full Stack Developer to grow, contribute as well and develop my skills further.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
--   👨🏽‍💻 Lead Frontend Engineer at [FB Dropshipper](https://fbdropshipper.com/) (June 2022 - Present);
+-   👨🏽‍💻 Lead Frontend Engineer at Insaeng.co (June 2022 - Present);
 -   💻 Web Developer at [Fiverr](https://www.fiverr.com/rh_rahat_47?up_rollout=true) (Sept 2020 - Present);
--   🌱 I’m currently learning Ruby on Rails, Nest.js, PostGres;
--   🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects, I am also interested in Serverless and JAM Stack Developing;
+-   🌱 I’m currently learning Python, Flutter;
+-   🤔 My interests are in Understanding new Technologies and using them for effective and Secure Projects, I am also interested in Serverless architecture;
 -   💼 I’m pursuing a Bachelor's degree in Accounting;
 -   💬 Ask me about anything, I am happy to help;
--   📫 Please email via [rayhan.rahat.dev@outlook.com](mailto:rayhan.rahat.dev@outlook.com) to reach me.
+-   📫 Please email via [djrayhan8@gmail.com](mailto:djrayhan8@gmail.com) to reach me.
 -   📝 See my [Resume](https://drive.google.com/file/d/16ChiELjjlb6u76pc3oqw1DwzfNXnZ8zU/view?usp=sharing) to get more info.
 -   🌍 Visit My Portfolio [portfolio](https://rayhan-rahat.vercel.app/) to get more details.
 
