@@ -35,24 +35,19 @@
 
 #### Now
 
-- ✨ Contributing to Insaeng;
-- ✨ Contributing to [Cheer Music Maker](https://www.cheer-music-maker.com/);
-- ✨ Contributing to [CloneDub](https://www.clonedub.com/);
-- ✨ Contributing to Many Backend and frontend projects.
+- ✨ Engineer @Hype;
 - :fire: Interested in AI;
-- :calendar: Looking to build amazing things for the Web.
 
 #### Bio
 
-Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** and a **Freelance Web Developer** 🚀 from Bangladesh. Currently Learning Python. Looking for an opportunity as a Backend or Full Stack Developer to grow, contribute as well and develop my skills further.
+Hi there, I'm **Rayhan Hossain Rahat**, a **Full Stack Web Developer** and a **Freelance Web Developer** 🚀 from Bangladesh.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuff:**
 
--   👨🏽‍💻 Lead Frontend Engineer at Insaeng.co (June 2022 - Present);
+-   👨🏽‍💻 Lead Full Stack Engineer at Hype (Feb 2024 - Present);
 -   💻 Web Developer at [Fiverr](https://www.fiverr.com/rh_rahat_47?up_rollout=true) (Sept 2020 - Present);
--   🌱 I’m currently learning Python, Flutter;
 -   🤔 My interests are in Understanding new Technologies and using them for effective and Secure Projects, I am also interested in Serverless architecture;
 -   💼 I’m pursuing a Bachelor's degree in Accounting;
 -   💬 Ask me about anything, I am happy to help;
